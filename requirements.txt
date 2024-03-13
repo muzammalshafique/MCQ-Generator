@@ -1,5 +1,8 @@
-OpenAI
-Langchain
-Streamlit
+openai
+langchain
+streamlit
 python-dotenv
 PyPDF2
+
+
+-e .
